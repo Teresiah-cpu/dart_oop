@@ -23,3 +23,5 @@ void main() {
   Doctor d = Doctor("John", 41, "Male");
   print(d.map);
 }
+//To access the value of private property.
+//To restrict the access of data members of a class.
